@@ -1,0 +1,2064 @@
+{
+  "per_run": {
+    "E": [
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_E_s4_qwen8b_vllm",
+        "n_trades": 100,
+        "zero_trades": false,
+        "mean_trade_price": 94.71539999999997,
+        "total_seller_profit": 1471.54,
+        "buyer_surplus": 528.4600000000002,
+        "total_surplus": 2000.0,
+        "pair_profit_per_seller": 384.575,
+        "outsider_profit_per_seller": 351.19499999999994,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.13548172372239328,
+        "pair_contrast_p_eps0.1": 0.9655172413793104,
+        "pair_contrast_eps0.25": 0.016968359935717048,
+        "pair_contrast_p_eps0.25": 0.3103448275862069,
+        "pair_contrast_eps0.5": -0.0842624714931082,
+        "pair_contrast_p_eps0.5": 0.7241379310344828,
+        "pair_contrast_eps1.0": 0.0023090915235184223,
+        "pair_contrast_p_eps1.0": 0.3793103448275862
+      },
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_E_s5_qwen8b_vllm",
+        "n_trades": 99,
+        "zero_trades": false,
+        "mean_trade_price": 95.27151515151516,
+        "total_seller_profit": 1511.8800000000006,
+        "buyer_surplus": 468.1199999999999,
+        "total_surplus": 1980.0000000000005,
+        "pair_profit_per_seller": 325.12000000000006,
+        "outsider_profit_per_seller": 430.82000000000016,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.02507316266596607,
+        "pair_contrast_p_eps0.1": 0.5172413793103449,
+        "pair_contrast_eps0.25": 0.2914197903600201,
+        "pair_contrast_p_eps0.25": 0.13793103448275862,
+        "pair_contrast_eps0.5": 0.05645841153803792,
+        "pair_contrast_p_eps0.5": 0.4827586206896552,
+        "pair_contrast_eps1.0": -0.03647375983366927,
+        "pair_contrast_p_eps1.0": 0.9655172413793104
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_E_s0_qwen8b_vllm",
+        "n_trades": 109,
+        "zero_trades": false,
+        "mean_trade_price": 95.35917431192661,
+        "total_seller_profit": 1674.15,
+        "buyer_surplus": 505.8499999999997,
+        "total_surplus": 2180.0,
+        "pair_profit_per_seller": 433.665,
+        "outsider_profit_per_seller": 403.41,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.1,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.16938259473686673,
+        "pair_contrast_p_eps0.1": 0.9655172413793104,
+        "pair_contrast_eps0.25": -0.08691287779742089,
+        "pair_contrast_p_eps0.25": 0.8620689655172413,
+        "pair_contrast_eps0.5": -0.12764693058486476,
+        "pair_contrast_p_eps0.5": 0.9655172413793104,
+        "pair_contrast_eps1.0": -0.1458237558740635,
+        "pair_contrast_p_eps1.0": 1.0
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_E_s1_qwen8b_vllm",
+        "n_trades": 106,
+        "zero_trades": false,
+        "mean_trade_price": 86.61075471698113,
+        "total_seller_profit": 700.74,
+        "buyer_surplus": 1419.2599999999998,
+        "total_surplus": 2120.0,
+        "pair_profit_per_seller": 161.71,
+        "outsider_profit_per_seller": 188.66,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.03333333333333333,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": 0.008408834130162898,
+        "pair_contrast_p_eps0.1": 0.5172413793103449,
+        "pair_contrast_eps0.25": -0.09412154767430986,
+        "pair_contrast_p_eps0.25": 0.9655172413793104,
+        "pair_contrast_eps0.5": -0.1043130996335063,
+        "pair_contrast_p_eps0.5": 1.0,
+        "pair_contrast_eps1.0": -0.028261005833142075,
+        "pair_contrast_p_eps1.0": 0.7931034482758621
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_084539_E_s2_qwen8b_vllm",
+        "n_trades": 108,
+        "zero_trades": false,
+        "mean_trade_price": 95.67814814814814,
+        "total_seller_profit": 1693.2399999999996,
+        "buyer_surplus": 466.76000000000033,
+        "total_surplus": 2160.0,
+        "pair_profit_per_seller": 478.28499999999985,
+        "outsider_profit_per_seller": 368.3349999999999,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.08009149158173864,
+        "pair_contrast_p_eps0.1": 0.7241379310344828,
+        "pair_contrast_eps0.25": -0.08009149158173864,
+        "pair_contrast_p_eps0.25": 0.7241379310344828,
+        "pair_contrast_eps0.5": 0.03580304775877027,
+        "pair_contrast_p_eps0.5": 0.20689655172413793,
+        "pair_contrast_eps1.0": -0.05835957711513265,
+        "pair_contrast_p_eps1.0": 0.7586206896551724
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_101726_E_s3_qwen8b_vllm",
+        "n_trades": 116,
+        "zero_trades": false,
+        "mean_trade_price": 94.49853448275861,
+        "total_seller_profit": 1681.83,
+        "buyer_surplus": 638.17,
+        "total_surplus": 2320.0,
+        "pair_profit_per_seller": 403.54499999999996,
+        "outsider_profit_per_seller": 437.37,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.08333333333333333,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": 0.001627363775788454,
+        "pair_contrast_p_eps0.1": 0.20689655172413793,
+        "pair_contrast_eps0.25": 0.001627363775788454,
+        "pair_contrast_p_eps0.25": 0.20689655172413793,
+        "pair_contrast_eps0.5": 0.0832555861842656,
+        "pair_contrast_p_eps0.5": 0.13793103448275862,
+        "pair_contrast_eps1.0": -0.06028910027375012,
+        "pair_contrast_p_eps1.0": 0.6896551724137931
+      }
+    ],
+    "A": [
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_A_s4_qwen8b_vllm",
+        "n_trades": 108,
+        "zero_trades": false,
+        "mean_trade_price": 93.86462962962963,
+        "total_seller_profit": 1497.3799999999999,
+        "buyer_surplus": 662.6199999999999,
+        "total_surplus": 2160.0,
+        "pair_profit_per_seller": 371.78499999999997,
+        "outsider_profit_per_seller": 376.905,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 4,
+        "buyer_overbid_share": 0.31666666666666665,
+        "n_messages": 60,
+        "price_language_sent": 0.9333333333333333,
+        "price_language_delivered": 0.9333333333333333,
+        "pair_contrast_eps0.1": -0.06010696726407645,
+        "pair_contrast_p_eps0.1": 0.9655172413793104,
+        "pair_contrast_eps0.25": -0.06010696726407645,
+        "pair_contrast_p_eps0.25": 0.9655172413793104,
+        "pair_contrast_eps0.5": 0.1588538225347032,
+        "pair_contrast_p_eps0.5": 0.10344827586206896,
+        "pair_contrast_eps1.0": -0.0446967814936506,
+        "pair_contrast_p_eps1.0": 0.9310344827586207
+      },
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_A_s5_qwen8b_vllm",
+        "n_trades": 108,
+        "zero_trades": false,
+        "mean_trade_price": 97.49296296296298,
+        "total_seller_profit": 1889.24,
+        "buyer_surplus": 270.75999999999993,
+        "total_surplus": 2160.0,
+        "pair_profit_per_seller": 474.82,
+        "outsider_profit_per_seller": 469.8,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 1.0,
+        "price_language_delivered": 1.0,
+        "pair_contrast_eps0.1": -0.01597801819187819,
+        "pair_contrast_p_eps0.1": 0.5517241379310345,
+        "pair_contrast_eps0.25": 0.02979673973657121,
+        "pair_contrast_p_eps0.25": 0.3793103448275862,
+        "pair_contrast_eps0.5": -0.08569598277558153,
+        "pair_contrast_p_eps0.5": 0.3448275862068966,
+        "pair_contrast_eps1.0": -0.061679377220277776,
+        "pair_contrast_p_eps1.0": 0.9655172413793104
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_A_s0_qwen8b_vllm",
+        "n_trades": 117,
+        "zero_trades": false,
+        "mean_trade_price": 91.82196581196581,
+        "total_seller_profit": 1383.17,
+        "buyer_surplus": 956.8299999999999,
+        "total_surplus": 2340.0,
+        "pair_profit_per_seller": 325.12,
+        "outsider_profit_per_seller": 366.46500000000003,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.18333333333333332,
+        "n_messages": 60,
+        "price_language_sent": 1.0,
+        "price_language_delivered": 1.0,
+        "pair_contrast_eps0.1": 0.17100059823888006,
+        "pair_contrast_p_eps0.1": 0.034482758620689655,
+        "pair_contrast_eps0.25": 0.17100059823888006,
+        "pair_contrast_p_eps0.25": 0.034482758620689655,
+        "pair_contrast_eps0.5": 0.01976297448714215,
+        "pair_contrast_p_eps0.5": 0.1724137931034483,
+        "pair_contrast_eps1.0": 0.0659853428553218,
+        "pair_contrast_p_eps1.0": 0.10344827586206896
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_A_s1_qwen8b_vllm",
+        "n_trades": 112,
+        "zero_trades": false,
+        "mean_trade_price": 87.68642857142858,
+        "total_seller_profit": 860.88,
+        "buyer_surplus": 1379.12,
+        "total_surplus": 2240.0,
+        "pair_profit_per_seller": 179.5,
+        "outsider_profit_per_seller": 250.94,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.06666666666666667,
+        "n_messages": 60,
+        "price_language_sent": 1.0,
+        "price_language_delivered": 1.0,
+        "pair_contrast_eps0.1": 0.1546038617254402,
+        "pair_contrast_p_eps0.1": 0.10344827586206896,
+        "pair_contrast_eps0.25": 0.2039774742770564,
+        "pair_contrast_p_eps0.25": 0.06896551724137931,
+        "pair_contrast_eps0.5": 0.20106462639340167,
+        "pair_contrast_p_eps0.5": 0.034482758620689655,
+        "pair_contrast_eps1.0": -0.0776636432709132,
+        "pair_contrast_p_eps1.0": 0.9310344827586207
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_084546_A_s2_qwen8b_vllm",
+        "n_trades": 116,
+        "zero_trades": false,
+        "mean_trade_price": 94.57413793103449,
+        "total_seller_profit": 1690.6,
+        "buyer_surplus": 629.4,
+        "total_surplus": 2320.0,
+        "pair_profit_per_seller": 440.85,
+        "outsider_profit_per_seller": 404.45000000000005,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 5,
+        "buyer_overbid_share": 0.425,
+        "n_messages": 60,
+        "price_language_sent": 1.0,
+        "price_language_delivered": 1.0,
+        "pair_contrast_eps0.1": 0.04834604636727691,
+        "pair_contrast_p_eps0.1": 0.4482758620689655,
+        "pair_contrast_eps0.25": 0.04834604636727691,
+        "pair_contrast_p_eps0.25": 0.4482758620689655,
+        "pair_contrast_eps0.5": -0.2392469862535343,
+        "pair_contrast_p_eps0.5": 1.0,
+        "pair_contrast_eps1.0": -0.11522089139087582,
+        "pair_contrast_p_eps1.0": 0.9310344827586207
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_111814_A_s3_qwen8b_vllm",
+        "n_trades": 112,
+        "zero_trades": false,
+        "mean_trade_price": 91.47607142857143,
+        "total_seller_profit": 1285.32,
+        "buyer_surplus": 954.68,
+        "total_surplus": 2240.0,
+        "pair_profit_per_seller": 292.85,
+        "outsider_profit_per_seller": 349.81,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.075,
+        "n_messages": 60,
+        "price_language_sent": 0.95,
+        "price_language_delivered": 0.95,
+        "pair_contrast_eps0.1": -0.05919669186652002,
+        "pair_contrast_p_eps0.1": 0.7586206896551724,
+        "pair_contrast_eps0.25": -0.05919669186652002,
+        "pair_contrast_p_eps0.25": 0.7586206896551724,
+        "pair_contrast_eps0.5": -0.09499852202708725,
+        "pair_contrast_p_eps0.5": 0.7586206896551724,
+        "pair_contrast_eps1.0": -0.11992200908363329,
+        "pair_contrast_p_eps1.0": 0.9310344827586207
+      }
+    ],
+    "C": [
+      {
+        "dir": "../kaggle_results/main/20261024_054857_C_s0_qwen8b_vllm",
+        "n_trades": 115,
+        "zero_trades": false,
+        "mean_trade_price": 92.89808695652177,
+        "total_seller_profit": 1483.2800000000002,
+        "buyer_surplus": 816.7199999999998,
+        "total_surplus": 2300.0,
+        "pair_profit_per_seller": 364.82000000000005,
+        "outsider_profit_per_seller": 376.82000000000005,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 11,
+        "buyer_overbid_share": 0.375,
+        "n_messages": 60,
+        "price_language_sent": 0.95,
+        "price_language_delivered": 0.95,
+        "pair_contrast_eps0.1": -0.10048046355323242,
+        "pair_contrast_p_eps0.1": 0.896551724137931,
+        "pair_contrast_eps0.25": -0.018152301984457053,
+        "pair_contrast_p_eps0.25": 0.6206896551724138,
+        "pair_contrast_eps0.5": 0.05434634406931739,
+        "pair_contrast_p_eps0.5": 0.3103448275862069,
+        "pair_contrast_eps1.0": 0.03538630210449631,
+        "pair_contrast_p_eps1.0": 0.2413793103448276
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_C_s1_qwen8b_vllm",
+        "n_trades": 109,
+        "zero_trades": false,
+        "mean_trade_price": 93.1,
+        "total_seller_profit": 1427.9,
+        "buyer_surplus": 752.1,
+        "total_surplus": 2180.0,
+        "pair_profit_per_seller": 351.08,
+        "outsider_profit_per_seller": 362.87,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.09166666666666666,
+        "n_messages": 60,
+        "price_language_sent": 0.36666666666666664,
+        "price_language_delivered": 0.36666666666666664,
+        "pair_contrast_eps0.1": -0.07071582887637788,
+        "pair_contrast_p_eps0.1": 0.6551724137931034,
+        "pair_contrast_eps0.25": -0.12337984047700389,
+        "pair_contrast_p_eps0.25": 0.8620689655172413,
+        "pair_contrast_eps0.5": 0.09272141189201429,
+        "pair_contrast_p_eps0.5": 0.10344827586206896,
+        "pair_contrast_eps1.0": -0.045283360556105726,
+        "pair_contrast_p_eps1.0": 0.6206896551724138
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_094609_C_s2_qwen8b_vllm",
+        "n_trades": 103,
+        "zero_trades": false,
+        "mean_trade_price": 90.9114563106796,
+        "total_seller_profit": 1123.88,
+        "buyer_surplus": 936.1199999999999,
+        "total_surplus": 2060.0,
+        "pair_profit_per_seller": 326.45500000000004,
+        "outsider_profit_per_seller": 235.485,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 0.5833333333333334,
+        "price_language_delivered": 0.5833333333333334,
+        "pair_contrast_eps0.1": 0.09921547314282059,
+        "pair_contrast_p_eps0.1": 0.13793103448275862,
+        "pair_contrast_eps0.25": 0.11590645320365572,
+        "pair_contrast_p_eps0.25": 0.13793103448275862,
+        "pair_contrast_eps0.5": 0.02825441113121388,
+        "pair_contrast_p_eps0.5": 0.13793103448275862,
+        "pair_contrast_eps1.0": -0.11877189994653203,
+        "pair_contrast_p_eps1.0": 0.7931034482758621
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_112124_C_s3_qwen8b_vllm",
+        "n_trades": 108,
+        "zero_trades": false,
+        "mean_trade_price": 97.32870370370371,
+        "total_seller_profit": 1871.5,
+        "buyer_surplus": 288.5,
+        "total_surplus": 2160.0,
+        "pair_profit_per_seller": 418.94,
+        "outsider_profit_per_seller": 516.81,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 39,
+        "buyer_overbid_share": 0.5083333333333333,
+        "n_messages": 60,
+        "price_language_sent": 0.0,
+        "price_language_delivered": 0.0,
+        "pair_contrast_eps0.1": 0.15249034846583404,
+        "pair_contrast_p_eps0.1": 0.13793103448275862,
+        "pair_contrast_eps0.25": 0.14722829188970962,
+        "pair_contrast_p_eps0.25": 0.13793103448275862,
+        "pair_contrast_eps0.5": 0.04088827238060461,
+        "pair_contrast_p_eps0.5": 0.13793103448275862,
+        "pair_contrast_eps1.0": 0.022028377855824496,
+        "pair_contrast_p_eps1.0": 0.3103448275862069
+      }
+    ],
+    "D": [
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_D_s4_qwen8b_vllm",
+        "n_trades": 100,
+        "zero_trades": false,
+        "mean_trade_price": 96.07109999999999,
+        "total_seller_profit": 1607.1099999999997,
+        "buyer_surplus": 392.8900000000001,
+        "total_surplus": 1999.9999999999998,
+        "pair_profit_per_seller": 376.24499999999995,
+        "outsider_profit_per_seller": 427.30999999999995,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 23,
+        "buyer_overbid_share": 0.2916666666666667,
+        "n_messages": 60,
+        "price_language_sent": 0.9833333333333333,
+        "price_language_delivered": 0.9833333333333333,
+        "pair_contrast_eps0.1": 0.025043986851701866,
+        "pair_contrast_p_eps0.1": 0.5172413793103449,
+        "pair_contrast_eps0.25": 0.025043986851701866,
+        "pair_contrast_p_eps0.25": 0.5172413793103449,
+        "pair_contrast_eps0.5": 0.06668233308471644,
+        "pair_contrast_p_eps0.5": 0.034482758620689655,
+        "pair_contrast_eps1.0": 0.032472780486866304,
+        "pair_contrast_p_eps1.0": 0.1724137931034483
+      },
+      {
+        "dir": "../kaggle_results/extra/20261024_080621_D_s5_qwen8b_vllm",
+        "n_trades": 118,
+        "zero_trades": false,
+        "mean_trade_price": 93.96940677966103,
+        "total_seller_profit": 1648.39,
+        "buyer_surplus": 711.6099999999999,
+        "total_surplus": 2360.0,
+        "pair_profit_per_seller": 409.03,
+        "outsider_profit_per_seller": 415.165,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 8,
+        "buyer_overbid_share": 0.29411764705882354,
+        "n_messages": 60,
+        "price_language_sent": 0.7,
+        "price_language_delivered": 0.7,
+        "pair_contrast_eps0.1": 0.015822373971725492,
+        "pair_contrast_p_eps0.1": 0.4827586206896552,
+        "pair_contrast_eps0.25": 0.015822373971725492,
+        "pair_contrast_p_eps0.25": 0.4827586206896552,
+        "pair_contrast_eps0.5": 0.03476090524652173,
+        "pair_contrast_p_eps0.5": 0.13793103448275862,
+        "pair_contrast_eps1.0": -0.03944811202361628,
+        "pair_contrast_p_eps1.0": 0.5862068965517241
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_054857_D_s0_qwen8b_vllm",
+        "n_trades": 103,
+        "zero_trades": false,
+        "mean_trade_price": 93.11038834951455,
+        "total_seller_profit": 1350.37,
+        "buyer_surplus": 709.63,
+        "total_surplus": 2060.0,
+        "pair_profit_per_seller": 287.38,
+        "outsider_profit_per_seller": 387.805,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.24166666666666667,
+        "n_messages": 60,
+        "price_language_sent": 0.7666666666666667,
+        "price_language_delivered": 0.7666666666666667,
+        "pair_contrast_eps0.1": -0.029554409669727118,
+        "pair_contrast_p_eps0.1": 0.5517241379310345,
+        "pair_contrast_eps0.25": -0.029554409669727118,
+        "pair_contrast_p_eps0.25": 0.5517241379310345,
+        "pair_contrast_eps0.5": -0.031624787544602365,
+        "pair_contrast_p_eps0.5": 0.5517241379310345,
+        "pair_contrast_eps1.0": -0.09623207160660609,
+        "pair_contrast_p_eps1.0": 0.9655172413793104
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_084342_D_s1_qwen8b_vllm",
+        "n_trades": 104,
+        "zero_trades": false,
+        "mean_trade_price": 96.02509615384616,
+        "total_seller_profit": 1666.6100000000001,
+        "buyer_surplus": 413.38999999999976,
+        "total_surplus": 2080.0,
+        "pair_profit_per_seller": 428.07,
+        "outsider_profit_per_seller": 405.235,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 32,
+        "buyer_overbid_share": 0.4666666666666667,
+        "n_messages": 60,
+        "price_language_sent": 0.8333333333333334,
+        "price_language_delivered": 0.8333333333333334,
+        "pair_contrast_eps0.1": 0.16677291613836281,
+        "pair_contrast_p_eps0.1": 0.13793103448275862,
+        "pair_contrast_eps0.25": 0.17834474200794645,
+        "pair_contrast_p_eps0.25": 0.06896551724137931,
+        "pair_contrast_eps0.5": -0.09585300102754699,
+        "pair_contrast_p_eps0.5": 0.9655172413793104,
+        "pair_contrast_eps1.0": -0.12133805067614084,
+        "pair_contrast_p_eps1.0": 0.8620689655172413
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_100659_D_s2_qwen8b_vllm",
+        "n_trades": 95,
+        "zero_trades": false,
+        "mean_trade_price": 90.16484210526313,
+        "total_seller_profit": 965.6600000000001,
+        "buyer_surplus": 934.3399999999999,
+        "total_surplus": 1900.0,
+        "pair_profit_per_seller": 184.8,
+        "outsider_profit_per_seller": 298.03000000000003,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 0.9333333333333333,
+        "price_language_delivered": 0.9333333333333333,
+        "pair_contrast_eps0.1": -0.08572254626297114,
+        "pair_contrast_p_eps0.1": 0.6896551724137931,
+        "pair_contrast_eps0.25": 0.03542773480605593,
+        "pair_contrast_p_eps0.25": 0.1724137931034483,
+        "pair_contrast_eps0.5": 0.16539094552749417,
+        "pair_contrast_p_eps0.5": 0.034482758620689655,
+        "pair_contrast_eps1.0": -0.029486283041977108,
+        "pair_contrast_p_eps1.0": 1.0
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_124533_D_s3_qwen8b_vllm",
+        "n_trades": 93,
+        "zero_trades": false,
+        "mean_trade_price": 89.75430107526881,
+        "total_seller_profit": 907.1500000000001,
+        "buyer_surplus": 952.8500000000003,
+        "total_surplus": 1860.0000000000005,
+        "pair_profit_per_seller": 258.80000000000007,
+        "outsider_profit_per_seller": 194.77500000000003,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 0.8666666666666667,
+        "price_language_delivered": 0.8666666666666667,
+        "pair_contrast_eps0.1": 0.1603253007832344,
+        "pair_contrast_p_eps0.1": 0.1724137931034483,
+        "pair_contrast_eps0.25": 0.09724126541703096,
+        "pair_contrast_p_eps0.25": 0.13793103448275862,
+        "pair_contrast_eps0.5": -0.08835674414235456,
+        "pair_contrast_p_eps0.5": 0.6206896551724138,
+        "pair_contrast_eps1.0": 0.024901588794304756,
+        "pair_contrast_p_eps1.0": 0.20689655172413793
+      }
+    ],
+    "P": [
+      {
+        "dir": "../kaggle_results/main/20261024_054857_P_s0_qwen8b_vllm",
+        "n_trades": 110,
+        "zero_trades": false,
+        "mean_trade_price": 93.51636363636365,
+        "total_seller_profit": 1486.8,
+        "buyer_surplus": 713.1999999999999,
+        "total_surplus": 2200.0,
+        "pair_profit_per_seller": 342.26,
+        "outsider_profit_per_seller": 401.14,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.008403361344537815,
+        "n_messages": 60,
+        "price_language_sent": 0.6833333333333333,
+        "price_language_delivered": 0.35,
+        "pair_contrast_eps0.1": -0.020147017933251195,
+        "pair_contrast_p_eps0.1": 0.7931034482758621,
+        "pair_contrast_eps0.25": -0.020147017933251195,
+        "pair_contrast_p_eps0.25": 0.7931034482758621,
+        "pair_contrast_eps0.5": -0.08001264537681219,
+        "pair_contrast_p_eps0.5": 0.6206896551724138,
+        "pair_contrast_eps1.0": 0.01257782313468983,
+        "pair_contrast_p_eps1.0": 0.7931034482758621
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_084449_P_s1_qwen8b_vllm",
+        "n_trades": 108,
+        "zero_trades": false,
+        "mean_trade_price": 92.80583333333334,
+        "total_seller_profit": 1383.03,
+        "buyer_surplus": 776.9699999999997,
+        "total_surplus": 2159.9999999999995,
+        "pair_profit_per_seller": 335.65999999999997,
+        "outsider_profit_per_seller": 355.85499999999996,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 0.8833333333333333,
+        "price_language_delivered": 0.0,
+        "pair_contrast_eps0.1": -0.19627451227094206,
+        "pair_contrast_p_eps0.1": 1.0,
+        "pair_contrast_eps0.25": -0.19627451227094206,
+        "pair_contrast_p_eps0.25": 1.0,
+        "pair_contrast_eps0.5": -0.14150402582214863,
+        "pair_contrast_p_eps0.5": 0.9655172413793104,
+        "pair_contrast_eps1.0": -0.10851555547496719,
+        "pair_contrast_p_eps1.0": 0.6551724137931034
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_101537_P_s2_qwen8b_vllm",
+        "n_trades": 112,
+        "zero_trades": false,
+        "mean_trade_price": 89.35312499999999,
+        "total_seller_profit": 1047.55,
+        "buyer_surplus": 1192.45,
+        "total_surplus": 2240.0,
+        "pair_profit_per_seller": 274.75,
+        "outsider_profit_per_seller": 249.02499999999998,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.025,
+        "n_messages": 60,
+        "price_language_sent": 0.9166666666666666,
+        "price_language_delivered": 0.0,
+        "pair_contrast_eps0.1": 0.05003223200699616,
+        "pair_contrast_p_eps0.1": 0.20689655172413793,
+        "pair_contrast_eps0.25": -0.008865874057483486,
+        "pair_contrast_p_eps0.25": 0.3103448275862069,
+        "pair_contrast_eps0.5": 0.03430595509796755,
+        "pair_contrast_p_eps0.5": 0.1724137931034483,
+        "pair_contrast_eps1.0": -0.09027326991767162,
+        "pair_contrast_p_eps1.0": 1.0
+      },
+      {
+        "dir": "../kaggle_results/main/20261024_130144_P_s3_qwen8b_vllm",
+        "n_trades": 110,
+        "zero_trades": false,
+        "mean_trade_price": 92.6720909090909,
+        "total_seller_profit": 1393.9299999999998,
+        "buyer_surplus": 806.07,
+        "total_surplus": 2200.0,
+        "pair_profit_per_seller": 294.64,
+        "outsider_profit_per_seller": 402.32499999999993,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 60,
+        "price_language_sent": 0.95,
+        "price_language_delivered": 0.0,
+        "pair_contrast_eps0.1": -0.059774431969403435,
+        "pair_contrast_p_eps0.1": 0.8275862068965517,
+        "pair_contrast_eps0.25": -0.1854884180204643,
+        "pair_contrast_p_eps0.25": 1.0,
+        "pair_contrast_eps0.5": -0.06806531268573357,
+        "pair_contrast_p_eps0.5": 0.6206896551724138,
+        "pair_contrast_eps1.0": -0.0693094654780769,
+        "pair_contrast_p_eps1.0": 0.6896551724137931
+      }
+    ],
+    "N": [
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s0_qwen8b_vllm",
+        "n_trades": 94,
+        "zero_trades": false,
+        "mean_trade_price": 97.51595744680851,
+        "total_seller_profit": 1646.499999999999,
+        "buyer_surplus": 233.50000000000003,
+        "total_surplus": 1879.999999999999,
+        "pair_profit_per_seller": 381.03499999999974,
+        "outsider_profit_per_seller": 442.2149999999998,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.000355419185430419,
+        "pair_contrast_p_eps0.1": 1.0,
+        "pair_contrast_eps0.25": 0.0,
+        "pair_contrast_p_eps0.25": 1.0,
+        "pair_contrast_eps0.5": 0.0,
+        "pair_contrast_p_eps0.5": 1.0,
+        "pair_contrast_eps1.0": 0.0,
+        "pair_contrast_p_eps1.0": 1.0
+      },
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s1_qwen8b_vllm",
+        "n_trades": 105,
+        "zero_trades": false,
+        "mean_trade_price": 93.7,
+        "total_seller_profit": 1438.5,
+        "buyer_surplus": 661.5,
+        "total_surplus": 2100.0,
+        "pair_profit_per_seller": 333.125,
+        "outsider_profit_per_seller": 386.125,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.025,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": 0.10613256557123515,
+        "pair_contrast_p_eps0.1": 0.13793103448275862,
+        "pair_contrast_eps0.25": 0.10613256557123515,
+        "pair_contrast_p_eps0.25": 0.13793103448275862,
+        "pair_contrast_eps0.5": -0.06264893082888617,
+        "pair_contrast_p_eps0.5": 0.8620689655172413,
+        "pair_contrast_eps1.0": 0.2049673891764742,
+        "pair_contrast_p_eps1.0": 0.034482758620689655
+      },
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s2_qwen8b_vllm",
+        "n_trades": 109,
+        "zero_trades": false,
+        "mean_trade_price": 93.31788990825687,
+        "total_seller_profit": 1451.6499999999999,
+        "buyer_surplus": 728.3499999999998,
+        "total_surplus": 2179.9999999999995,
+        "pair_profit_per_seller": 382.99499999999995,
+        "outsider_profit_per_seller": 342.83,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.041666666666666664,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.02683520247296131,
+        "pair_contrast_p_eps0.1": 0.7586206896551724,
+        "pair_contrast_eps0.25": -0.038085588058693665,
+        "pair_contrast_p_eps0.25": 0.7586206896551724,
+        "pair_contrast_eps0.5": 0.1731190567636008,
+        "pair_contrast_p_eps0.5": 0.10344827586206896,
+        "pair_contrast_eps1.0": -0.04547278004182581,
+        "pair_contrast_p_eps1.0": 0.3793103448275862
+      },
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s3_qwen8b_vllm",
+        "n_trades": 95,
+        "zero_trades": false,
+        "mean_trade_price": 90.49736842105263,
+        "total_seller_profit": 997.25,
+        "buyer_surplus": 902.75,
+        "total_surplus": 1900.0,
+        "pair_profit_per_seller": 211.0,
+        "outsider_profit_per_seller": 287.625,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.025,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": 0.05497685870891528,
+        "pair_contrast_p_eps0.1": 0.3103448275862069,
+        "pair_contrast_eps0.25": 0.05497685870891528,
+        "pair_contrast_p_eps0.25": 0.3103448275862069,
+        "pair_contrast_eps0.5": -0.007078810494319673,
+        "pair_contrast_p_eps0.5": 0.5172413793103449,
+        "pair_contrast_eps1.0": -0.07113745375599659,
+        "pair_contrast_p_eps1.0": 0.41379310344827586
+      },
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s4_qwen8b_vllm",
+        "n_trades": 112,
+        "zero_trades": false,
+        "mean_trade_price": 94.3682142857143,
+        "total_seller_profit": 1609.24,
+        "buyer_surplus": 630.76,
+        "total_surplus": 2240.0,
+        "pair_profit_per_seller": 376.03999999999996,
+        "outsider_profit_per_seller": 428.58000000000004,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 0,
+        "buyer_overbid_share": 0.0,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": 0.07388432240708712,
+        "pair_contrast_p_eps0.1": 0.27586206896551724,
+        "pair_contrast_eps0.25": 0.0706369441016568,
+        "pair_contrast_p_eps0.25": 0.27586206896551724,
+        "pair_contrast_eps0.5": 0.22343890881416215,
+        "pair_contrast_p_eps0.5": 0.034482758620689655,
+        "pair_contrast_eps1.0": 0.0017475743868846927,
+        "pair_contrast_p_eps1.0": 0.3793103448275862
+      },
+      {
+        "dir": "../kaggle_results/n/20261024_110817_N_s5_qwen8b_vllm",
+        "n_trades": 112,
+        "zero_trades": false,
+        "mean_trade_price": 94.84508928571428,
+        "total_seller_profit": 1662.65,
+        "buyer_surplus": 577.3499999999997,
+        "total_surplus": 2240.0,
+        "pair_profit_per_seller": 474.25,
+        "outsider_profit_per_seller": 357.075,
+        "first_trade_round": 1,
+        "trades_above_buyer_value": 6,
+        "buyer_overbid_share": 0.15,
+        "n_messages": 0,
+        "price_language_sent": null,
+        "price_language_delivered": null,
+        "pair_contrast_eps0.1": -0.06170931136260092,
+        "pair_contrast_p_eps0.1": 0.896551724137931,
+        "pair_contrast_eps0.25": -0.06170931136260092,
+        "pair_contrast_p_eps0.25": 0.896551724137931,
+        "pair_contrast_eps0.5": -0.13635900396562903,
+        "pair_contrast_p_eps0.5": 0.8275862068965517,
+        "pair_contrast_eps1.0": 0.014844147421254963,
+        "pair_contrast_p_eps1.0": 0.20689655172413793
+      }
+    ]
+  },
+  "summary": {
+    "E": {
+      "n_trades": {
+        "n": 6,
+        "mean": 106.33333333333333,
+        "sd": 6.282250127674532,
+        "min": 99.0,
+        "max": 116.0
+      },
+      "mean_trade_price": {
+        "n": 6,
+        "mean": 93.6889211352216,
+        "sd": 3.4945942849009484,
+        "min": 86.61075471698113,
+        "max": 95.67814814814814
+      },
+      "total_seller_profit": {
+        "n": 6,
+        "mean": 1455.5633333333335,
+        "sd": 381.74651760908915,
+        "min": 700.74,
+        "max": 1693.2399999999996
+      },
+      "buyer_surplus": {
+        "n": 6,
+        "mean": 671.1033333333334,
+        "sd": 371.8701973897163,
+        "min": 466.76000000000033,
+        "max": 1419.2599999999998
+      },
+      "total_surplus": {
+        "n": 6,
+        "mean": 2126.6666666666665,
+        "sd": 125.64500255349053,
+        "min": 1980.0000000000005,
+        "max": 2320.0
+      },
+      "pair_profit_per_seller": {
+        "n": 6,
+        "mean": 364.48333333333335,
+        "sd": 111.65384716464838,
+        "min": 161.71,
+        "max": 478.28499999999985
+      },
+      "outsider_profit_per_seller": {
+        "n": 6,
+        "mean": 363.29833333333335,
+        "sd": 92.00558595360758,
+        "min": 188.66,
+        "max": 437.37
+      },
+      "first_trade_round": {
+        "n": 6,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 6,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "buyer_overbid_share": {
+        "n": 6,
+        "mean": 0.036111111111111115,
+        "sd": 0.04523600663516063,
+        "min": 0.0,
+        "max": 0.1
+      },
+      "n_messages": {
+        "n": 6,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "price_language_sent": {
+        "n": 0
+      },
+      "price_language_delivered": {
+        "n": 0
+      },
+      "pair_contrast_eps0.1": {
+        "n": 6,
+        "mean": -0.06666546246683556,
+        "sd": 0.0741575685432461,
+        "min": -0.16938259473686673,
+        "max": 0.008408834130162898
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 6,
+        "mean": 0.6494252873563219,
+        "sd": 0.29535980731113565,
+        "min": 0.20689655172413793,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps0.25": {
+        "n": 6,
+        "mean": 0.00814826616967603,
+        "sd": 0.1467276820530046,
+        "min": -0.09412154767430986,
+        "max": 0.2914197903600201
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 6,
+        "mean": 0.5344827586206896,
+        "sd": 0.35885271008959163,
+        "min": 0.13793103448275862,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps0.5": {
+        "n": 6,
+        "mean": -0.02345090937173425,
+        "sd": 0.09206123824492816,
+        "min": -0.12764693058486476,
+        "max": 0.0832555861842656
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 6,
+        "mean": 0.5862068965517241,
+        "sd": 0.3713906763541037,
+        "min": 0.13793103448275862,
+        "max": 1.0
+      },
+      "pair_contrast_eps1.0": {
+        "n": 6,
+        "mean": -0.054483017901039855,
+        "sd": 0.05025761574773073,
+        "min": -0.1458237558740635,
+        "max": 0.0023090915235184223
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 6,
+        "mean": 0.764367816091954,
+        "sd": 0.22391677860664547,
+        "min": 0.3793103448275862,
+        "max": 1.0
+      },
+      "zero_trade_runs": 0
+    },
+    "A": {
+      "n_trades": {
+        "n": 6,
+        "mean": 112.16666666666667,
+        "sd": 3.8166302763912916,
+        "min": 108.0,
+        "max": 117.0
+      },
+      "mean_trade_price": {
+        "n": 6,
+        "mean": 92.81936605593215,
+        "sd": 3.3214636305080703,
+        "min": 87.68642857142858,
+        "max": 97.49296296296298
+      },
+      "total_seller_profit": {
+        "n": 6,
+        "mean": 1434.4316666666666,
+        "sd": 355.0377134005156,
+        "min": 860.88,
+        "max": 1889.24
+      },
+      "buyer_surplus": {
+        "n": 6,
+        "mean": 808.9016666666666,
+        "sd": 377.22637492183213,
+        "min": 270.75999999999993,
+        "max": 1379.12
+      },
+      "total_surplus": {
+        "n": 6,
+        "mean": 2243.3333333333335,
+        "sd": 76.33260552782583,
+        "min": 2160.0,
+        "max": 2340.0
+      },
+      "pair_profit_per_seller": {
+        "n": 6,
+        "mean": 347.48749999999995,
+        "sd": 106.98210325797488,
+        "min": 179.5,
+        "max": 474.82
+      },
+      "outsider_profit_per_seller": {
+        "n": 6,
+        "mean": 369.7283333333334,
+        "sd": 71.81851381549654,
+        "min": 250.94,
+        "max": 469.8
+      },
+      "first_trade_round": {
+        "n": 6,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 6,
+        "mean": 1.5,
+        "sd": 2.345207879911715,
+        "min": 0.0,
+        "max": 5.0
+      },
+      "buyer_overbid_share": {
+        "n": 6,
+        "mean": 0.17777777777777778,
+        "sd": 0.16428858980690272,
+        "min": 0.0,
+        "max": 0.425
+      },
+      "n_messages": {
+        "n": 6,
+        "mean": 60.0,
+        "sd": 0.0,
+        "min": 60.0,
+        "max": 60.0
+      },
+      "price_language_sent": {
+        "n": 6,
+        "mean": 0.9805555555555556,
+        "sd": 0.0305807976544953,
+        "min": 0.9333333333333333,
+        "max": 1.0
+      },
+      "price_language_delivered": {
+        "n": 6,
+        "mean": 0.9805555555555556,
+        "sd": 0.0305807976544953,
+        "min": 0.9333333333333333,
+        "max": 1.0
+      },
+      "pair_contrast_eps0.1": {
+        "n": 6,
+        "mean": 0.03977813816818708,
+        "sd": 0.10330487898257368,
+        "min": -0.06010696726407645,
+        "max": 0.17100059823888006
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 6,
+        "mean": 0.47701149425287354,
+        "sd": 0.3632438518647748,
+        "min": 0.034482758620689655,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps0.25": {
+        "n": 6,
+        "mean": 0.05563619991486468,
+        "sd": 0.11190886998321595,
+        "min": -0.06010696726407645,
+        "max": 0.2039774742770564
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 6,
+        "mean": 0.44252873563218387,
+        "sd": 0.36973279336019066,
+        "min": 0.034482758620689655,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps0.5": {
+        "n": 6,
+        "mean": -0.006710011273492679,
+        "sd": 0.16696681805439356,
+        "min": -0.2392469862535343,
+        "max": 0.20106462639340167
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 6,
+        "mean": 0.40229885057471265,
+        "sd": 0.39114251786605875,
+        "min": 0.034482758620689655,
+        "max": 1.0
+      },
+      "pair_contrast_eps1.0": {
+        "n": 6,
+        "mean": -0.05886622660067148,
+        "sd": 0.06790228431852924,
+        "min": -0.11992200908363329,
+        "max": 0.0659853428553218
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 6,
+        "mean": 0.7988505747126436,
+        "sd": 0.34095526897517536,
+        "min": 0.10344827586206896,
+        "max": 0.9655172413793104
+      },
+      "zero_trade_runs": 0
+    },
+    "C": {
+      "n_trades": {
+        "n": 4,
+        "mean": 108.75,
+        "sd": 4.924428900898052,
+        "min": 103.0,
+        "max": 115.0
+      },
+      "mean_trade_price": {
+        "n": 4,
+        "mean": 93.55956174272626,
+        "sd": 2.6998542793638487,
+        "min": 90.9114563106796,
+        "max": 97.32870370370371
+      },
+      "total_seller_profit": {
+        "n": 4,
+        "mean": 1476.64,
+        "sd": 307.014502589047,
+        "min": 1123.88,
+        "max": 1871.5
+      },
+      "buyer_surplus": {
+        "n": 4,
+        "mean": 698.3599999999999,
+        "sd": 283.6735884780251,
+        "min": 288.5,
+        "max": 936.1199999999999
+      },
+      "total_surplus": {
+        "n": 4,
+        "mean": 2175.0,
+        "sd": 98.48857801796105,
+        "min": 2060.0,
+        "max": 2300.0
+      },
+      "pair_profit_per_seller": {
+        "n": 4,
+        "mean": 365.32375,
+        "sd": 39.10933464340705,
+        "min": 326.45500000000004,
+        "max": 418.94
+      },
+      "outsider_profit_per_seller": {
+        "n": 4,
+        "mean": 372.99625000000003,
+        "sd": 115.04912076840625,
+        "min": 235.485,
+        "max": 516.81
+      },
+      "first_trade_round": {
+        "n": 4,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 4,
+        "mean": 12.5,
+        "sd": 18.411952639521967,
+        "min": 0.0,
+        "max": 39.0
+      },
+      "buyer_overbid_share": {
+        "n": 4,
+        "mean": 0.24375,
+        "sd": 0.23788954408545404,
+        "min": 0.0,
+        "max": 0.5083333333333333
+      },
+      "n_messages": {
+        "n": 4,
+        "mean": 60.0,
+        "sd": 0.0,
+        "min": 60.0,
+        "max": 60.0
+      },
+      "price_language_sent": {
+        "n": 4,
+        "mean": 0.475,
+        "sd": 0.3977948475542899,
+        "min": 0.0,
+        "max": 0.95
+      },
+      "price_language_delivered": {
+        "n": 4,
+        "mean": 0.475,
+        "sd": 0.3977948475542899,
+        "min": 0.0,
+        "max": 0.95
+      },
+      "pair_contrast_eps0.1": {
+        "n": 4,
+        "mean": 0.020127382294761076,
+        "sd": 0.12459751525555267,
+        "min": -0.10048046355323242,
+        "max": 0.15249034846583404
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 4,
+        "mean": 0.45689655172413796,
+        "sd": 0.38126455840510315,
+        "min": 0.13793103448275862,
+        "max": 0.896551724137931
+      },
+      "pair_contrast_eps0.25": {
+        "n": 4,
+        "mean": 0.0304006506579761,
+        "sd": 0.12512096638688686,
+        "min": -0.12337984047700389,
+        "max": 0.14722829188970962
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 4,
+        "mean": 0.43965517241379315,
+        "sd": 0.3620689655172414,
+        "min": 0.13793103448275862,
+        "max": 0.8620689655172413
+      },
+      "pair_contrast_eps0.5": {
+        "n": 4,
+        "mean": 0.05405260986828754,
+        "sd": 0.0278939023760761,
+        "min": 0.02825441113121388,
+        "max": 0.09272141189201429
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 4,
+        "mean": 0.1724137931034483,
+        "sd": 0.09337975177742484,
+        "min": 0.10344827586206896,
+        "max": 0.3103448275862069
+      },
+      "pair_contrast_eps1.0": {
+        "n": 4,
+        "mean": -0.026660145135579242,
+        "sd": 0.07083250998694585,
+        "min": -0.11877189994653203,
+        "max": 0.03538630210449631
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 4,
+        "mean": 0.4913793103448276,
+        "sd": 0.26014874247715575,
+        "min": 0.2413793103448276,
+        "max": 0.7931034482758621
+      },
+      "zero_trade_runs": 0
+    },
+    "D": {
+      "n_trades": {
+        "n": 6,
+        "mean": 102.16666666666667,
+        "sd": 8.886319072972041,
+        "min": 93.0,
+        "max": 118.0
+      },
+      "mean_trade_price": {
+        "n": 6,
+        "mean": 93.18252241059228,
+        "sd": 2.7534557290087505,
+        "min": 89.75430107526881,
+        "max": 96.07109999999999
+      },
+      "total_seller_profit": {
+        "n": 6,
+        "mean": 1357.5483333333332,
+        "sd": 346.0854424223397,
+        "min": 907.1500000000001,
+        "max": 1666.6100000000001
+      },
+      "buyer_surplus": {
+        "n": 6,
+        "mean": 685.785,
+        "sd": 242.6212414237468,
+        "min": 392.8900000000001,
+        "max": 952.8500000000003
+      },
+      "total_surplus": {
+        "n": 6,
+        "mean": 2043.3333333333333,
+        "sd": 177.72638145944074,
+        "min": 1860.0000000000005,
+        "max": 2360.0
+      },
+      "pair_profit_per_seller": {
+        "n": 6,
+        "mean": 324.0541666666666,
+        "sd": 95.66492839158278,
+        "min": 184.8,
+        "max": 428.07
+      },
+      "outsider_profit_per_seller": {
+        "n": 6,
+        "mean": 354.71999999999997,
+        "sd": 90.95652554929744,
+        "min": 194.77500000000003,
+        "max": 427.30999999999995
+      },
+      "first_trade_round": {
+        "n": 6,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 6,
+        "mean": 10.5,
+        "sd": 13.82389236069205,
+        "min": 0.0,
+        "max": 32.0
+      },
+      "buyer_overbid_share": {
+        "n": 6,
+        "mean": 0.21568627450980393,
+        "sd": 0.18364736656968852,
+        "min": 0.0,
+        "max": 0.4666666666666667
+      },
+      "n_messages": {
+        "n": 6,
+        "mean": 60.0,
+        "sd": 0.0,
+        "min": 60.0,
+        "max": 60.0
+      },
+      "price_language_sent": {
+        "n": 6,
+        "mean": 0.8472222222222223,
+        "sd": 0.10457143579957762,
+        "min": 0.7,
+        "max": 0.9833333333333333
+      },
+      "price_language_delivered": {
+        "n": 6,
+        "mean": 0.8472222222222223,
+        "sd": 0.10457143579957762,
+        "min": 0.7,
+        "max": 0.9833333333333333
+      },
+      "pair_contrast_eps0.1": {
+        "n": 6,
+        "mean": 0.042114603635387715,
+        "sd": 0.10195580950254453,
+        "min": -0.08572254626297114,
+        "max": 0.16677291613836281
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 6,
+        "mean": 0.4252873563218391,
+        "sd": 0.22097682465651342,
+        "min": 0.13793103448275862,
+        "max": 0.6896551724137931
+      },
+      "pair_contrast_eps0.25": {
+        "n": 6,
+        "mean": 0.0537209488974556,
+        "sd": 0.07342098462847235,
+        "min": -0.029554409669727118,
+        "max": 0.17834474200794645
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 6,
+        "mean": 0.3218390804597701,
+        "sd": 0.21772433089750023,
+        "min": 0.06896551724137931,
+        "max": 0.5517241379310345
+      },
+      "pair_contrast_eps0.5": {
+        "n": 6,
+        "mean": 0.008499941857371407,
+        "sd": 0.10056874673659881,
+        "min": -0.09585300102754699,
+        "max": 0.16539094552749417
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 6,
+        "mean": 0.39080459770114945,
+        "sd": 0.38129054692348,
+        "min": 0.034482758620689655,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps1.0": {
+        "n": 6,
+        "mean": -0.03818835801119488,
+        "sd": 0.06218294790201852,
+        "min": -0.12133805067614084,
+        "max": 0.032472780486866304
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 6,
+        "mean": 0.632183908045977,
+        "sd": 0.3724563619774632,
+        "min": 0.1724137931034483,
+        "max": 1.0
+      },
+      "zero_trade_runs": 0
+    },
+    "P": {
+      "n_trades": {
+        "n": 4,
+        "mean": 110.0,
+        "sd": 1.632993161855452,
+        "min": 108.0,
+        "max": 112.0
+      },
+      "mean_trade_price": {
+        "n": 4,
+        "mean": 92.08685321969698,
+        "sd": 1.8597675094321033,
+        "min": 89.35312499999999,
+        "max": 93.51636363636365
+      },
+      "total_seller_profit": {
+        "n": 4,
+        "mean": 1327.8274999999999,
+        "sd": 192.5656505151771,
+        "min": 1047.55,
+        "max": 1486.8
+      },
+      "buyer_surplus": {
+        "n": 4,
+        "mean": 872.1725,
+        "sd": 217.01228020168205,
+        "min": 713.1999999999999,
+        "max": 1192.45
+      },
+      "total_surplus": {
+        "n": 4,
+        "mean": 2200.0,
+        "sd": 32.65986323710923,
+        "min": 2159.9999999999995,
+        "max": 2240.0
+      },
+      "pair_profit_per_seller": {
+        "n": 4,
+        "mean": 311.8275,
+        "sd": 32.47704971719772,
+        "min": 274.75,
+        "max": 342.26
+      },
+      "outsider_profit_per_seller": {
+        "n": 4,
+        "mean": 352.08624999999995,
+        "sd": 72.03246286397543,
+        "min": 249.02499999999998,
+        "max": 402.32499999999993
+      },
+      "first_trade_round": {
+        "n": 4,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 4,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "buyer_overbid_share": {
+        "n": 4,
+        "mean": 0.008350840336134454,
+        "sd": 0.011785165033612268,
+        "min": 0.0,
+        "max": 0.025
+      },
+      "n_messages": {
+        "n": 4,
+        "mean": 60.0,
+        "sd": 0.0,
+        "min": 60.0,
+        "max": 60.0
+      },
+      "price_language_sent": {
+        "n": 4,
+        "mean": 0.8583333333333334,
+        "sd": 0.11979921473804345,
+        "min": 0.6833333333333333,
+        "max": 0.95
+      },
+      "price_language_delivered": {
+        "n": 4,
+        "mean": 0.0875,
+        "sd": 0.175,
+        "min": 0.0,
+        "max": 0.35
+      },
+      "pair_contrast_eps0.1": {
+        "n": 4,
+        "mean": -0.05654093254165013,
+        "sd": 0.10363121351688712,
+        "min": -0.19627451227094206,
+        "max": 0.05003223200699616
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 4,
+        "mean": 0.7068965517241379,
+        "sd": 0.3454018207199246,
+        "min": 0.20689655172413793,
+        "max": 1.0
+      },
+      "pair_contrast_eps0.25": {
+        "n": 4,
+        "mean": -0.10269395557053526,
+        "sd": 0.10202932486699484,
+        "min": -0.19627451227094206,
+        "max": -0.008865874057483486
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 4,
+        "mean": 0.7758620689655172,
+        "sd": 0.3253096942088484,
+        "min": 0.3103448275862069,
+        "max": 1.0
+      },
+      "pair_contrast_eps0.5": {
+        "n": 4,
+        "mean": -0.06381900719668171,
+        "sd": 0.07290115539089169,
+        "min": -0.14150402582214863,
+        "max": 0.03430595509796755
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 4,
+        "mean": 0.5948275862068966,
+        "sd": 0.32515735999576173,
+        "min": 0.1724137931034483,
+        "max": 0.9655172413793104
+      },
+      "pair_contrast_eps1.0": {
+        "n": 4,
+        "mean": -0.06388011693400647,
+        "sd": 0.053429752396096035,
+        "min": -0.10851555547496719,
+        "max": 0.01257782313468983
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 4,
+        "mean": 0.7844827586206896,
+        "sd": 0.15517241379310345,
+        "min": 0.6551724137931034,
+        "max": 1.0
+      },
+      "zero_trade_runs": 0
+    },
+    "N": {
+      "n_trades": {
+        "n": 6,
+        "mean": 104.5,
+        "sd": 8.167006795638168,
+        "min": 94.0,
+        "max": 112.0
+      },
+      "mean_trade_price": {
+        "n": 6,
+        "mean": 94.04075322459111,
+        "sd": 2.2814667050829893,
+        "min": 90.49736842105263,
+        "max": 97.51595744680851
+      },
+      "total_seller_profit": {
+        "n": 6,
+        "mean": 1467.6316666666664,
+        "sd": 249.97677135419323,
+        "min": 997.25,
+        "max": 1662.65
+      },
+      "buyer_surplus": {
+        "n": 6,
+        "mean": 622.3683333333332,
+        "sd": 221.22067312226196,
+        "min": 233.50000000000003,
+        "max": 902.75
+      },
+      "total_surplus": {
+        "n": 6,
+        "mean": 2089.9999999999995,
+        "sd": 163.34013591276354,
+        "min": 1879.999999999999,
+        "max": 2240.0
+      },
+      "pair_profit_per_seller": {
+        "n": 6,
+        "mean": 359.7408333333333,
+        "sd": 86.26059119996027,
+        "min": 211.0,
+        "max": 474.25
+      },
+      "outsider_profit_per_seller": {
+        "n": 6,
+        "mean": 374.075,
+        "sd": 57.44198751784269,
+        "min": 287.625,
+        "max": 442.2149999999998
+      },
+      "first_trade_round": {
+        "n": 6,
+        "mean": 1.0,
+        "sd": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "trades_above_buyer_value": {
+        "n": 6,
+        "mean": 1.0,
+        "sd": 2.449489742783178,
+        "min": 0.0,
+        "max": 6.0
+      },
+      "buyer_overbid_share": {
+        "n": 6,
+        "mean": 0.04027777777777778,
+        "sd": 0.05612898505195835,
+        "min": 0.0,
+        "max": 0.15
+      },
+      "n_messages": {
+        "n": 6,
+        "mean": 0.0,
+        "sd": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "price_language_sent": {
+        "n": 0
+      },
+      "price_language_delivered": {
+        "n": 0
+      },
+      "pair_contrast_eps0.1": {
+        "n": 6,
+        "mean": 0.02434896894437415,
+        "sd": 0.06436851615078759,
+        "min": -0.06170931136260092,
+        "max": 0.10613256557123515
+      },
+      "pair_contrast_p_eps0.1": {
+        "n": 6,
+        "mean": 0.5632183908045977,
+        "sd": 0.36536539895326575,
+        "min": 0.13793103448275862,
+        "max": 1.0
+      },
+      "pair_contrast_eps0.25": {
+        "n": 6,
+        "mean": 0.021991911493418777,
+        "sd": 0.06577665306181198,
+        "min": -0.06170931136260092,
+        "max": 0.10613256557123515
+      },
+      "pair_contrast_p_eps0.25": {
+        "n": 6,
+        "mean": 0.5632183908045977,
+        "sd": 0.36536539895326575,
+        "min": 0.13793103448275862,
+        "max": 1.0
+      },
+      "pair_contrast_eps0.5": {
+        "n": 6,
+        "mean": 0.031745203381488014,
+        "sd": 0.13886495757742884,
+        "min": -0.13635900396562903,
+        "max": 0.22343890881416215
+      },
+      "pair_contrast_p_eps0.5": {
+        "n": 6,
+        "mean": 0.557471264367816,
+        "sd": 0.41057175218713604,
+        "min": 0.034482758620689655,
+        "max": 1.0
+      },
+      "pair_contrast_eps1.0": {
+        "n": 6,
+        "mean": 0.01749147953113191,
+        "sd": 0.09749629046195826,
+        "min": -0.07113745375599659,
+        "max": 0.2049673891764742
+      },
+      "pair_contrast_p_eps1.0": {
+        "n": 6,
+        "mean": 0.40229885057471265,
+        "sd": 0.3261614509910152,
+        "min": 0.034482758620689655,
+        "max": 1.0
+      },
+      "zero_trade_runs": 0
+    }
+  },
+  "comparisons": [
+    {
+      "comparison": "A vs E",
+      "question": "Does messaging change outcomes?",
+      "total_seller_profit": {
+        "diff": -21.131666666666888,
+        "p": 0.9137086291370863,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "buyer_surplus": {
+        "diff": 137.7983333333333,
+        "p": 0.5345465453454654,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "total_surplus": {
+        "diff": 116.66666666666697,
+        "p": 0.10088991100889912,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "mean_trade_price": {
+        "diff": -0.8695550792894551,
+        "p": 0.6360363963603639,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "n_trades": {
+        "diff": 5.833333333333343,
+        "p": 0.10088991100889912,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": 0.04748793374518865,
+        "p": 0.5598440155984401,
+        "n": [
+          6,
+          6
+        ]
+      }
+    },
+    {
+      "comparison": "D vs N",
+      "question": "Does communication matter under monitoring + pressure? (matched control)",
+      "total_seller_profit": {
+        "diff": -110.08333333333326,
+        "p": 0.5346465353464653,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "buyer_surplus": {
+        "diff": 63.41666666666674,
+        "p": 0.644935506449355,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "total_surplus": {
+        "diff": -46.66666666666629,
+        "p": 0.6516348365163483,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "mean_trade_price": {
+        "diff": -0.8582308139988299,
+        "p": 0.5762423757624238,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "n_trades": {
+        "diff": -2.3333333333333286,
+        "p": 0.6516348365163483,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": 0.03172903740403682,
+        "p": 0.45155484451554845,
+        "n": [
+          6,
+          6
+        ]
+      }
+    },
+    {
+      "comparison": "D vs C",
+      "question": "Does pressure change outcomes under monitoring?",
+      "total_seller_profit": {
+        "diff": -119.09166666666692,
+        "p": 0.5680431956804319,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "buyer_surplus": {
+        "diff": -12.574999999999932,
+        "p": 0.9178082191780822,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "total_surplus": {
+        "diff": -131.66666666666674,
+        "p": 0.22257774222577742,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "mean_trade_price": {
+        "diff": -0.37703933213397534,
+        "p": 0.8054194580541946,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "n_trades": {
+        "diff": -6.583333333333329,
+        "p": 0.22257774222577742,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          6,
+          4
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": 0.023320298239479502,
+        "p": 0.702929707029297,
+        "n": [
+          6,
+          4
+        ]
+      }
+    },
+    {
+      "comparison": "C vs A",
+      "question": "Does announced monitoring change outcomes with messaging?",
+      "total_seller_profit": {
+        "diff": 42.208333333333485,
+        "p": 0.8454154584541546,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "buyer_surplus": {
+        "diff": -110.54166666666674,
+        "p": 0.6364363563643636,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "total_surplus": {
+        "diff": -68.33333333333348,
+        "p": 0.266973302669733,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "mean_trade_price": {
+        "diff": 0.7401956867941095,
+        "p": 0.7384261573842615,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "n_trades": {
+        "diff": -3.4166666666666714,
+        "p": 0.266973302669733,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": -0.025235549256888583,
+        "p": 0.726027397260274,
+        "n": [
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "comparison": "P vs A",
+      "question": "Does sanitising messages change outcomes?",
+      "total_seller_profit": {
+        "diff": -106.60416666666674,
+        "p": 0.6078392160783922,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "buyer_surplus": {
+        "diff": 63.27083333333337,
+        "p": 0.7934206579342066,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "total_surplus": {
+        "diff": -43.333333333333485,
+        "p": 0.3631636836316368,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "mean_trade_price": {
+        "diff": -0.7325128362351734,
+        "p": 0.7135286471352865,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "n_trades": {
+        "diff": -2.1666666666666714,
+        "p": 0.3631636836316368,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          4,
+          6
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": -0.15833015548539994,
+        "p": 0.06459354064593541,
+        "n": [
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "comparison": "N vs E",
+      "question": "Do notice + pressure alone change outcomes without any channel?",
+      "total_seller_profit": {
+        "diff": 12.06833333333293,
+        "p": 0.9418058194180582,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "buyer_surplus": {
+        "diff": -48.73500000000013,
+        "p": 0.81991800819918,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "total_surplus": {
+        "diff": -36.66666666666697,
+        "p": 0.6297370262973703,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "mean_trade_price": {
+        "diff": 0.35183208936950905,
+        "p": 0.836016398360164,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "n_trades": {
+        "diff": -1.8333333333333286,
+        "p": 0.6884311568843116,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "first_trade_round": {
+        "diff": 0.0,
+        "p": 1.0,
+        "n": [
+          6,
+          6
+        ]
+      },
+      "pair_contrast_eps0.25": {
+        "diff": 0.013843645323742748,
+        "p": 0.8641135886411359,
+        "n": [
+          6,
+          6
+        ]
+      }
+    }
+  ]
+}

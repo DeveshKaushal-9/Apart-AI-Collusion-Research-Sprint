@@ -1,0 +1,788 @@
+{
+ "comparisons": {
+  "qwen:A-E": {
+   "mean_trade_price": [
+    -0.87,
+    -4.14,
+    2.91
+   ],
+   "total_seller_profit": [
+    -21.13,
+    -379.92,
+    374.07
+   ],
+   "buyer_surplus": [
+    137.8,
+    -272.66,
+    501.72
+   ],
+   "total_surplus": [
+    116.67,
+    10.0,
+    223.33
+   ],
+   "n_trades": [
+    5.83,
+    0.33,
+    11.17
+   ]
+  },
+  "qwen:D-N": {
+   "mean_trade_price": [
+    -0.86,
+    -3.45,
+    1.7
+   ],
+   "total_seller_profit": [
+    -110.08,
+    -421.68,
+    201.85
+   ],
+   "buyer_surplus": [
+    63.42,
+    -171.48,
+    309.09
+   ],
+   "total_surplus": [
+    -46.67,
+    -213.33,
+    136.67
+   ],
+   "n_trades": [
+    -2.33,
+    -10.67,
+    6.67
+   ]
+  },
+  "qwen:D-C": {
+   "mean_trade_price": [
+    -0.38,
+    -3.54,
+    2.54
+   ],
+   "total_seller_profit": [
+    -119.09,
+    -493.54,
+    234.14
+   ],
+   "buyer_surplus": [
+    -12.57,
+    -287.41,
+    298.23
+   ],
+   "total_surplus": [
+    -131.67,
+    -280.0,
+    28.33
+   ],
+   "n_trades": [
+    -6.58,
+    -13.92,
+    1.58
+   ]
+  },
+  "qwen:C-A": {
+   "mean_trade_price": [
+    0.74,
+    -2.46,
+    4.08
+   ],
+   "total_seller_profit": [
+    42.21,
+    -309.11,
+    415.33
+   ],
+   "buyer_surplus": [
+    -110.54,
+    -487.32,
+    236.09
+   ],
+   "total_surplus": [
+    -68.33,
+    -166.67,
+    35.0
+   ],
+   "n_trades": [
+    -3.42,
+    -8.33,
+    1.58
+   ]
+  },
+  "qwen:P-A": {
+   "mean_trade_price": [
+    -0.73,
+    -3.64,
+    2.14
+   ],
+   "total_seller_profit": [
+    -106.6,
+    -410.85,
+    202.62
+   ],
+   "buyer_surplus": [
+    63.27,
+    -263.73,
+    404.28
+   ],
+   "total_surplus": [
+    -43.33,
+    -106.67,
+    16.67
+   ],
+   "n_trades": [
+    -2.17,
+    -5.17,
+    1.0
+   ]
+  },
+  "qwen:N-E": {
+   "mean_trade_price": [
+    0.35,
+    -2.31,
+    3.69
+   ],
+   "total_seller_profit": [
+    12.07,
+    -293.54,
+    366.77
+   ],
+   "buyer_surplus": [
+    -48.74,
+    -392.32,
+    221.34
+   ],
+   "total_surplus": [
+    -36.67,
+    -186.67,
+    110.0
+   ],
+   "n_trades": [
+    -1.83,
+    -9.5,
+    5.33
+   ]
+  },
+  "xs:A-E": {
+   "mean_trade_price": [
+    -0.71,
+    -4.44,
+    3.15
+   ],
+   "total_seller_profit": [
+    -76.45,
+    -386.73,
+    240.61
+   ],
+   "buyer_surplus": [
+    36.45,
+    -293.85,
+    349.16
+   ],
+   "total_surplus": [
+    -40.0,
+    -135.12,
+    60.0
+   ],
+   "n_trades": [
+    -2.0,
+    -6.75,
+    3.0
+   ]
+  },
+  "gpt41:A-E": {
+   "mean_trade_price": [
+    2.8,
+    -0.29,
+    5.67
+   ],
+   "total_seller_profit": [
+    -162.22,
+    -476.45,
+    81.32
+   ],
+   "buyer_surplus": [
+    -275.78,
+    -619.9,
+    112.21
+   ],
+   "total_surplus": [
+    -438.0,
+    -902.0,
+    46.0
+   ],
+   "n_trades": [
+    -21.9,
+    -44.9,
+    2.2
+   ]
+  },
+  "gpt41:D-C": {
+   "mean_trade_price": [
+    9.92,
+    8.74,
+    11.08
+   ],
+   "total_seller_profit": [
+    85.19,
+    -83.05,
+    253.97
+   ],
+   "buyer_surplus": [
+    -713.19,
+    -944.15,
+    -493.59
+   ],
+   "total_surplus": [
+    -628.0,
+    -982.0,
+    -283.95
+   ],
+   "n_trades": [
+    -31.4,
+    -49.0,
+    -14.4
+   ]
+  },
+  "gpt41:C-A": {
+   "mean_trade_price": [
+    -4.28,
+    -6.83,
+    -1.63
+   ],
+   "total_seller_profit": [
+    -85.91,
+    -214.45,
+    51.49
+   ],
+   "buyer_surplus": [
+    223.91,
+    -176.72,
+    597.34
+   ],
+   "total_surplus": [
+    138.0,
+    -322.0,
+    586.0
+   ],
+   "n_trades": [
+    6.9,
+    -16.4,
+    29.7
+   ]
+  }
+ },
+ "synthetic": {
+  "1_independent:pooled_gamma_rate": [
+   0.1,
+   0.043,
+   0.214,
+   50
+  ],
+  "1_independent:net_influence_rate": [
+   0.0,
+   0,
+   0.071,
+   50
+  ],
+  "1_independent:pair_contrast_run_rate": [
+   0.033,
+   0.018,
+   0.06,
+   300
+  ],
+  "1_independent:price_matching_rate": [
+   0.14,
+   0.07,
+   0.262,
+   50
+  ],
+  "2_shared_response:pooled_gamma_rate": [
+   0.98,
+   0.895,
+   0.996,
+   50
+  ],
+  "2_shared_response:net_influence_rate": [
+   0.02,
+   0.004,
+   0.105,
+   50
+  ],
+  "2_shared_response:pair_contrast_run_rate": [
+   0.187,
+   0.147,
+   0.235,
+   300
+  ],
+  "2_shared_response:price_matching_rate": [
+   0.94,
+   0.838,
+   0.979,
+   50
+  ],
+  "3_coordinated_pair:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "3_coordinated_pair:net_influence_rate": [
+   0.86,
+   0.738,
+   0.93,
+   50
+  ],
+  "3_coordinated_pair:pair_contrast_run_rate": [
+   0.283,
+   0.235,
+   0.337,
+   300
+  ],
+  "3_coordinated_pair:price_matching_rate": [
+   0.94,
+   0.838,
+   0.979,
+   50
+  ],
+  "4_pair_plus_shared:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "4_pair_plus_shared:net_influence_rate": [
+   0.84,
+   0.715,
+   0.917,
+   50
+  ],
+  "4_pair_plus_shared:pair_contrast_run_rate": [
+   0.433,
+   0.378,
+   0.49,
+   300
+  ],
+  "4_pair_plus_shared:price_matching_rate": [
+   0.98,
+   0.895,
+   0.996,
+   50
+  ],
+  "shared1_joint0.00:pooled_gamma_rate": [
+   0.96,
+   0.865,
+   0.989,
+   50
+  ],
+  "shared1_joint0.00:net_influence_rate": [
+   0.04,
+   0.011,
+   0.135,
+   50
+  ],
+  "shared1_joint0.00:pair_contrast_run_rate": [
+   0.16,
+   0.123,
+   0.206,
+   300
+  ],
+  "shared1_joint0.00:price_matching_rate": [
+   0.84,
+   0.715,
+   0.917,
+   50
+  ],
+  "shared1_joint0.25:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint0.25:net_influence_rate": [
+   0.02,
+   0.004,
+   0.105,
+   50
+  ],
+  "shared1_joint0.25:pair_contrast_run_rate": [
+   0.203,
+   0.162,
+   0.252,
+   300
+  ],
+  "shared1_joint0.25:price_matching_rate": [
+   0.9,
+   0.786,
+   0.957,
+   50
+  ],
+  "shared1_joint0.50:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint0.50:net_influence_rate": [
+   0.22,
+   0.128,
+   0.352,
+   50
+  ],
+  "shared1_joint0.50:pair_contrast_run_rate": [
+   0.21,
+   0.168,
+   0.26,
+   300
+  ],
+  "shared1_joint0.50:price_matching_rate": [
+   0.96,
+   0.865,
+   0.989,
+   50
+  ],
+  "shared1_joint0.75:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint0.75:net_influence_rate": [
+   0.62,
+   0.482,
+   0.741,
+   50
+  ],
+  "shared1_joint0.75:pair_contrast_run_rate": [
+   0.38,
+   0.327,
+   0.436,
+   300
+  ],
+  "shared1_joint0.75:price_matching_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint1.00:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint1.00:net_influence_rate": [
+   0.88,
+   0.762,
+   0.944,
+   50
+  ],
+  "shared1_joint1.00:pair_contrast_run_rate": [
+   0.393,
+   0.34,
+   0.45,
+   300
+  ],
+  "shared1_joint1.00:price_matching_rate": [
+   0.98,
+   0.895,
+   0.996,
+   50
+  ],
+  "shared1_joint1.50:pooled_gamma_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint1.50:net_influence_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ],
+  "shared1_joint1.50:pair_contrast_run_rate": [
+   0.63,
+   0.574,
+   0.683,
+   300
+  ],
+  "shared1_joint1.50:price_matching_rate": [
+   1.0,
+   0.929,
+   1,
+   50
+  ]
+ },
+ "welch": {
+  "qwen:A-E": {
+   "mean_trade_price": [
+    -0.87,
+    -5.26,
+    3.52
+   ],
+   "total_seller_profit": [
+    -21.13,
+    -495.69,
+    453.42
+   ],
+   "buyer_surplus": [
+    137.8,
+    -344.05,
+    619.65
+   ],
+   "total_surplus": [
+    116.67,
+    -21.01,
+    254.35
+   ],
+   "n_trades": [
+    5.83,
+    -1.05,
+    12.72
+   ]
+  },
+  "qwen:D-N": {
+   "mean_trade_price": [
+    -0.86,
+    -4.13,
+    2.41
+   ],
+   "total_seller_profit": [
+    -110.08,
+    -503.69,
+    283.52
+   ],
+   "buyer_surplus": [
+    63.42,
+    -235.59,
+    362.42
+   ],
+   "total_surplus": [
+    -46.67,
+    -266.45,
+    173.12
+   ],
+   "n_trades": [
+    -2.33,
+    -13.32,
+    8.66
+   ]
+  },
+  "qwen:D-C": {
+   "mean_trade_price": [
+    -0.38,
+    -4.57,
+    3.82
+   ],
+   "total_seller_profit": [
+    -119.09,
+    -610.27,
+    372.09
+   ],
+   "buyer_surplus": [
+    -12.57,
+    -439.26,
+    414.11
+   ],
+   "total_surplus": [
+    -131.67,
+    -334.41,
+    71.08
+   ],
+   "n_trades": [
+    -6.58,
+    -16.72,
+    3.55
+   ]
+  },
+  "qwen:C-A": {
+   "mean_trade_price": [
+    0.74,
+    -3.72,
+    5.2
+   ],
+   "total_seller_profit": [
+    42.21,
+    -453.32,
+    537.73
+   ],
+   "buyer_surplus": [
+    -110.54,
+    -595.88,
+    374.8
+   ],
+   "total_surplus": [
+    -68.33,
+    -215.1,
+    78.44
+   ],
+   "n_trades": [
+    -3.42,
+    -10.76,
+    3.92
+   ]
+  },
+  "qwen:P-A": {
+   "mean_trade_price": [
+    -0.73,
+    -4.53,
+    3.07
+   ],
+   "total_seller_profit": [
+    -106.6,
+    -509.29,
+    296.08
+   ],
+   "buyer_surplus": [
+    63.27,
+    -371.76,
+    498.3
+   ],
+   "total_surplus": [
+    -43.33,
+    -126.02,
+    39.36
+   ],
+   "n_trades": [
+    -2.17,
+    -6.3,
+    1.97
+   ]
+  },
+  "qwen:N-E": {
+   "mean_trade_price": [
+    0.35,
+    -3.53,
+    4.23
+   ],
+   "total_seller_profit": [
+    12.07,
+    -412.18,
+    436.31
+   ],
+   "buyer_surplus": [
+    -48.74,
+    -454.83,
+    357.36
+   ],
+   "total_surplus": [
+    -36.67,
+    -225.8,
+    152.47
+   ],
+   "n_trades": [
+    -1.83,
+    -11.29,
+    7.62
+   ]
+  },
+  "xs:A-E": {
+   "mean_trade_price": [
+    -0.71,
+    -6.21,
+    4.79
+   ],
+   "total_seller_profit": [
+    -76.45,
+    -529.39,
+    376.5
+   ],
+   "buyer_surplus": [
+    36.45,
+    -435.81,
+    508.7
+   ],
+   "total_surplus": [
+    -40.0,
+    -180.21,
+    100.21
+   ],
+   "n_trades": [
+    -2.0,
+    -9.01,
+    5.01
+   ]
+  },
+  "gpt41:A-E": {
+   "mean_trade_price": [
+    2.8,
+    -0.6,
+    6.21
+   ],
+   "total_seller_profit": [
+    -162.22,
+    -500.94,
+    176.5
+   ],
+   "buyer_surplus": [
+    -275.78,
+    -699.42,
+    147.86
+   ],
+   "total_surplus": [
+    -438.0,
+    -968.51,
+    92.51
+   ],
+   "n_trades": [
+    -21.9,
+    -48.43,
+    4.63
+   ]
+  },
+  "gpt41:D-C": {
+   "mean_trade_price": [
+    9.92,
+    8.55,
+    11.3
+   ],
+   "total_seller_profit": [
+    85.19,
+    -107.08,
+    277.46
+   ],
+   "buyer_surplus": [
+    -713.19,
+    -989.23,
+    -437.15
+   ],
+   "total_surplus": [
+    -628.0,
+    -1032.78,
+    -223.22
+   ],
+   "n_trades": [
+    -31.4,
+    -51.64,
+    -11.16
+   ]
+  },
+  "gpt41:C-A": {
+   "mean_trade_price": [
+    -4.28,
+    -7.35,
+    -1.2
+   ],
+   "total_seller_profit": [
+    -85.91,
+    -237.88,
+    66.06
+   ],
+   "buyer_surplus": [
+    223.91,
+    -220.3,
+    668.12
+   ],
+   "total_surplus": [
+    138.0,
+    -383.55,
+    659.55
+   ],
+   "n_trades": [
+    6.9,
+    -19.18,
+    32.98
+   ]
+  }
+ }
+}

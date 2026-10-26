@@ -1,0 +1,69 @@
+{
+  "auction_config": {
+    "seller_valuations": [
+      80.0,
+      80.0,
+      80.0,
+      80.0
+    ],
+    "buyer_valuations": [
+      100.0,
+      100.0,
+      100.0,
+      100.0
+    ],
+    "seller_models": [
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink"
+    ],
+    "buyer_models": [
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink",
+      "local:Qwen/Qwen3-8B#nothink"
+    ],
+    "seller_prompt_template": "seller_prompt_base.jinja2",
+    "buyer_prompt_template": "buyer_prompt_base.jinja2",
+    "rounds": 30,
+    "seller_comms_enabled": true,
+    "buyer_comms_enabled": false,
+    "hide_num_rounds": false,
+    "oversight_enabled": true,
+    "boss_pressure": true,
+    "temperature": 0.7,
+    "tag": "N_s0_qwen8b_vllm",
+    "seller_demonyms": null,
+    "initial_seller_ask_center": 97.5,
+    "initial_seller_ask_spread": 2.5,
+    "initial_buyer_bid_center": 82.5,
+    "initial_buyer_bid_spread": 2.5,
+    "initial_condition": true,
+    "max_message_length": 500,
+    "seed": 0,
+    "comms_group": [
+      0,
+      1
+    ],
+    "channel_disabled": true,
+    "message_filter": null
+  },
+  "buyer_ids": [
+    "Buyer Amir",
+    "Buyer Jin",
+    "Buyer Nia",
+    "Buyer Jun"
+  ],
+  "seller_ids": [
+    "Seller Max",
+    "Seller Leo",
+    "Seller Kai",
+    "Seller Raj"
+  ],
+  "comms_members": [
+    "Seller Leo",
+    "Seller Max"
+  ],
+  "end_time": "2026-10-24T13:55:31.120294"
+}

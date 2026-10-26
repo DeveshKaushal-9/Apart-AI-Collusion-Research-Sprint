@@ -1,0 +1,133 @@
+{
+  "alpha": 0.05,
+  "iterations": 200,
+  "seed": 0,
+  "rows": [
+    {
+      "cp": 0.0,
+      "games": 100,
+      "accuracy": 0.015,
+      "false_pair_rate": 0.03,
+      "mean_net_influence_AB": -0.0001346984212856389
+    },
+    {
+      "cp": 0.0,
+      "games": 300,
+      "accuracy": 0.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.000681425348795719
+    },
+    {
+      "cp": 0.0,
+      "games": 1000,
+      "accuracy": 0.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.0002319989572269336
+    },
+    {
+      "cp": 0.1,
+      "games": 100,
+      "accuracy": 0.09,
+      "false_pair_rate": 0.035,
+      "mean_net_influence_AB": 0.014449913142959712
+    },
+    {
+      "cp": 0.1,
+      "games": 300,
+      "accuracy": 0.015,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.015770961138566207
+    },
+    {
+      "cp": 0.1,
+      "games": 1000,
+      "accuracy": 0.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.01438682681252574
+    },
+    {
+      "cp": 0.2,
+      "games": 100,
+      "accuracy": 0.395,
+      "false_pair_rate": 0.01,
+      "mean_net_influence_AB": 0.048896689275911995
+    },
+    {
+      "cp": 0.2,
+      "games": 300,
+      "accuracy": 0.495,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.054838668090884966
+    },
+    {
+      "cp": 0.2,
+      "games": 1000,
+      "accuracy": 0.58,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.054783482275995506
+    },
+    {
+      "cp": 0.3,
+      "games": 100,
+      "accuracy": 0.79,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.12000624901730765
+    },
+    {
+      "cp": 0.3,
+      "games": 300,
+      "accuracy": 0.985,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.11876612492752793
+    },
+    {
+      "cp": 0.3,
+      "games": 1000,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.1188194398432212
+    },
+    {
+      "cp": 0.4,
+      "games": 100,
+      "accuracy": 0.985,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.22544618095221253
+    },
+    {
+      "cp": 0.4,
+      "games": 300,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.21006195411702286
+    },
+    {
+      "cp": 0.4,
+      "games": 1000,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.21418175259815883
+    },
+    {
+      "cp": 0.5,
+      "games": 100,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.33194393556659096
+    },
+    {
+      "cp": 0.5,
+      "games": 300,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.3302338315027163
+    },
+    {
+      "cp": 0.5,
+      "games": 1000,
+      "accuracy": 1.0,
+      "false_pair_rate": 0.0,
+      "mean_net_influence_AB": 0.3308023484219093
+    }
+  ]
+}

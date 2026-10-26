@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "repeats": 50,
+    "runs": 6,
+    "rounds": 30,
+    "eps": 0.25,
+    "alpha_bits": 0.05,
+    "n_perm": 300,
+    "seed": 0,
+    "out": "outputs/scripted_sweep.json",
+    "sweep": true
+  },
+  "results": {
+    "shared1_joint0.00": {
+      "pooled_gamma_rate": 0.96,
+      "net_influence_rate": 0.04,
+      "pair_contrast_run_rate": 0.15999999999999998,
+      "price_matching_rate": 0.84
+    },
+    "shared1_joint0.25": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.02,
+      "pair_contrast_run_rate": 0.2033333333333333,
+      "price_matching_rate": 0.9
+    },
+    "shared1_joint0.50": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.22,
+      "pair_contrast_run_rate": 0.21,
+      "price_matching_rate": 0.96
+    },
+    "shared1_joint0.75": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.62,
+      "pair_contrast_run_rate": 0.38,
+      "price_matching_rate": 1.0
+    },
+    "shared1_joint1.00": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.88,
+      "pair_contrast_run_rate": 0.3933333333333333,
+      "price_matching_rate": 0.98
+    },
+    "shared1_joint1.50": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 1.0,
+      "pair_contrast_run_rate": 0.6299999999999999,
+      "price_matching_rate": 1.0
+    }
+  }
+}

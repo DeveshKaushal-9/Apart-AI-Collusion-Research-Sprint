@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+jinja2
+pydantic>=2
+openai
+anthropic
+backoff
+tqdm
+pytest
+# optional: model serving / remote GPUs / Kaggle
+# vllm
+# modal
+# kaggle

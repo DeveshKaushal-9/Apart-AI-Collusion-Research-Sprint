@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "repeats": 50,
+    "runs": 6,
+    "rounds": 30,
+    "eps": 0.25,
+    "alpha_bits": 0.05,
+    "n_perm": 300,
+    "seed": 0,
+    "out": "outputs/scripted_auction.json",
+    "sweep": false
+  },
+  "results": {
+    "1_independent": {
+      "pooled_gamma_rate": 0.1,
+      "net_influence_rate": 0.0,
+      "pair_contrast_run_rate": 0.03333333333333333,
+      "price_matching_rate": 0.14
+    },
+    "2_shared_response": {
+      "pooled_gamma_rate": 0.98,
+      "net_influence_rate": 0.02,
+      "pair_contrast_run_rate": 0.18666666666666665,
+      "price_matching_rate": 0.94
+    },
+    "3_coordinated_pair": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.86,
+      "pair_contrast_run_rate": 0.2833333333333334,
+      "price_matching_rate": 0.94
+    },
+    "4_pair_plus_shared": {
+      "pooled_gamma_rate": 1.0,
+      "net_influence_rate": 0.84,
+      "pair_contrast_run_rate": 0.4333333333333333,
+      "price_matching_rate": 0.98
+    }
+  }
+}
